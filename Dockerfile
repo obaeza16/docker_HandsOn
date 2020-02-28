@@ -1,3 +1,12 @@
+# Roary dockerfile
+# VERSION latest
+# This image was too large, I could not find a suitable one to push.
+# I just left the one we used for the course and I uploaded this Dockerfile
+# into the git repo docker_HandsOn to asses that I searched for a image to
+# build.
+# DESCRIPTION: https://hub.docker.com/r/obaeza16/dockercourse
+
+
 FROM bcgsc/orca-6:latest
 LABEL maintainer="Shaun Jackman <sjackman@gmail.com>" \
       name=bcgs/orca \
